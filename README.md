@@ -6,7 +6,13 @@ Prises de vue, montage vidéo pour des événements et des musiciens (artistes, 
 
 Ces vidéos sont publiées sur ma chaîne AxabaGraphiste : https://www.youtube.com/@Axabagraphiste
 
-[![Video Title](https://img.youtube.com/vi/jhHL2vCyRl8/0.jpg)](https://www.youtube.com/watch?v=jhHL2vCyRl8)
+[![Video Title](https://img.youtube.com/vi/jhHL2vCyRl8/hqdefault.jpg)](https://www.youtube.com/watch?v=jhHL2vCyRl8)
+
+[![Video Title](https://img.youtube.com/vi/rwrFsXdAifo/hqdefault.jpg)](https://www.youtube.com/watch?v=rwrFsXdAifo)
+
+[![Video Title](https://img.youtube.com/vi/TjM0I9CnfrI/hqdefault.jpg)](https://www.youtube.com/watch?v=TjM0I9CnfrI)
+
+[![Video Title](https://img.youtube.com/vi/iU-RQqLHvLk/hqdefault.jpg)](https://www.youtube.com/watch?v=iU-RQqLHvLk)
 
 
 
