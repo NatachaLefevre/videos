@@ -1,5 +1,5 @@
 # Vidéos
-Projets divers de création vidéo : captation et montages de concerts, clips, machinimas...
+Projets divers de création vidéo : prises de vue, captation et montages de concerts, clips, machinimas...
 
 ## Machinimas
 Création de vidéos humoristiques, à partir de sessions de jeux. 
